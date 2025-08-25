@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Página de Mueblería Dara</title>
+    <style>
+      body {
+        background-color: white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 50px;
+        color: #333;
+      }
+
+      h1 {
+        font-size: 36px;
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-size: 20px;
+        margin-bottom: 30px;
+      }
+
+      .button {
+        background-color: #1877f2;
+        color: white;
+        padding: 15px 25px;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        text-decoration: none;
+      }
+
+      .button:hover {
+        background-color: #145dbf;
+      }
+
+      .contacto {
+        margin-top: 40px;
+        font-size: 18px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Página de Mueblería Dara</h1>
+    <p>Muebles a pedido</p>
+    <a class="button" href="https://www.facebook.com/barracadara=" target _blank">Ver mi Facebook</a>
+    <div class="contacto">
+      <p>📞 Teléfono: +591 63621392</p>
+    </div>
+  </body>
+</html>
